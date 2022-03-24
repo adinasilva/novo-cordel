@@ -20,7 +20,7 @@ body{
 }    
 header{
     color: white;
-    background-color: brown;
+    background-color: rgb(94, 19, 19);
     text-align: center;
 }
 header h1{
@@ -72,13 +72,13 @@ section.imagem#img01{
 }
 section.imagem#img02{
     color: white;
-    background-image: url('../imagens/nyellen.jpeg');
+    background-image: url('../imagens/background002.jpg');
 }
 section p{
     padding-bottom: 2em;
 }
 footer p{
-    background-color: brown;
+    background-color: rgb(94, 19, 19);
     color: white;
     font-family: var(--font01);
     padding: 5px;
